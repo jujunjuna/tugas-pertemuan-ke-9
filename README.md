@@ -12,7 +12,8 @@
 ```print('mengubah element ke 4 dari 30 menjadi :',list[3]) ```
 6. mengubah element ke 4 sampai sampai dengan yang terakhir \
 ```list[3:4]= [90,99] 
-print('mengubah element ke 4 sampai terakhir:',list[3:5]) ```
+print('mengubah element ke 4 sampai terakhir:',list[3:5])
+```
 
 
 7. mengambil 2 bagian dari list a \
